@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 a cybersecurity expert 💻<br>🌐 a frontend Developer 🌐<br>🎮 Unity & game-dev 🎮<br>🐍 Python & C developer <br>🕸 A web detective 🕸<br>❄️ Ready for work ❄️
+💻 a cybersecurity expert 💻<br>🌐 a frontend Developer 🌐<br>🐍 Python & C developer 🐍<br>🕸 A web detective 🕸<br>❄️ Ready for work ❄️
 
 
 ## 🌐 Socials:
