@@ -92,6 +92,8 @@ Ruby      ██░░░░░░░░░░░░░░░░░░░░░�
 Other     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%   🔧 Misc
 ```
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alcatord&layout=donut)
+
 <div align="center">
 
 <!-- Pie chart via GitHub Readme Stats -->
