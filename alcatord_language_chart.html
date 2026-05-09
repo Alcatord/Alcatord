@@ -1,0 +1,105 @@
+
+<div style="padding: 1rem 0;">
+  <div style="display:flex; align-items:center; gap:10px; margin-bottom:1.5rem;">
+    <div style="width:8px;height:8px;border-radius:50%;background:#00FFCC;"></div>
+    <span style="font-size:13px;color:var(--color-text-secondary);font-family:var(--font-mono);">Language Usage — Alcatord</span>
+  </div>
+
+  <div style="display:flex; gap:2rem; align-items:center; flex-wrap:wrap;">
+    <div style="position:relative; width:220px; height:220px; flex-shrink:0;">
+      <canvas id="langChart" width="220" height="220" role="img" aria-label="Donut chart showing programming language usage: Python 40%, C/C++ 28%, HTML/CSS 16%, C# 10%, Ruby 4%, Other 2%">Python 40%, C/C++ 28%, HTML/CSS 16%, C# 10%, Ruby 4%, Other 2%</canvas>
+      <div id="centerLabel" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center;pointer-events:none;">
+        <div style="font-size:22px;font-weight:500;color:var(--color-text-primary);" id="centerPct">40%</div>
+        <div style="font-size:11px;color:var(--color-text-secondary);margin-top:2px;" id="centerName">Python</div>
+      </div>
+    </div>
+
+    <div style="flex:1; min-width:180px;" id="legend"></div>
+  </div>
+
+  <div style="margin-top:1.5rem; border-top:0.5px solid var(--color-border-tertiary); padding-top:1rem;">
+    <p style="font-size:12px;color:var(--color-text-secondary);margin:0 0 0.75rem;">اضغط على أي لغة لتفاصيلها</p>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;" id="tags"></div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+const langs = [
+  { name:'Python',   pct:40, color:'#00C896', desc:'Security tools · Scripting · Automation', icon:'🐍' },
+  { name:'C / C++',  pct:28, color:'#3B8BE8', desc:'Systems · Embedded · Arduino',            icon:'⚙️' },
+  { name:'HTML/CSS', pct:16, color:'#E86B3B', desc:'Frontend · Web Design · Layouts',         icon:'🌐' },
+  { name:'C#',       pct:10, color:'#9B6BE8', desc:'Unity · Game Dev',                         icon:'🎮' },
+  { name:'Ruby',     pct: 4, color:'#E84B6B', desc:'Scripts · Automation',                     icon:'💎' },
+  { name:'Other',    pct: 2, color:'#888780', desc:'JavaScript · Assembly · Misc',             icon:'🔧' },
+];
+
+const isDark = matchMedia('(prefers-color-scheme: dark)').matches;
+
+const chart = new Chart(document.getElementById('langChart'), {
+  type: 'doughnut',
+  data: {
+    labels: langs.map(l => l.name),
+    datasets: [{
+      data: langs.map(l => l.pct),
+      backgroundColor: langs.map(l => l.color),
+      borderColor: isDark ? '#1a1a1a' : '#ffffff',
+      borderWidth: 3,
+      hoverBorderWidth: 4,
+      hoverOffset: 8,
+    }]
+  },
+  options: {
+    responsive: false,
+    cutout: '62%',
+    plugins: {
+      legend: { display: false },
+      tooltip: { enabled: false }
+    },
+    onHover: (evt, elements) => {
+      if (elements.length) {
+        const i = elements[0].index;
+        document.getElementById('centerPct').textContent = langs[i].pct + '%';
+        document.getElementById('centerName').textContent = langs[i].name;
+      }
+    },
+    animation: { animateRotate: true, duration: 900, easing: 'easeOutQuart' }
+  }
+});
+
+const legend = document.getElementById('legend');
+const tags   = document.getElementById('tags');
+
+langs.forEach((l, i) => {
+  const row = document.createElement('div');
+  row.style.cssText = 'display:flex;align-items:center;gap:8px;padding:6px 8px;border-radius:8px;cursor:pointer;transition:background .15s;margin-bottom:4px;';
+  row.innerHTML = `
+    <span style="width:10px;height:10px;border-radius:2px;background:${l.color};flex-shrink:0;"></span>
+    <span style="font-size:13px;font-weight:500;color:var(--color-text-primary);min-width:64px;">${l.name}</span>
+    <div style="flex:1;background:var(--color-border-tertiary);border-radius:4px;height:4px;overflow:hidden;">
+      <div style="width:${l.pct*2.5}%;height:100%;background:${l.color};border-radius:4px;transition:width .4s;"></div>
+    </div>
+    <span style="font-size:12px;color:var(--color-text-secondary);min-width:28px;text-align:right;">${l.pct}%</span>
+  `;
+  row.addEventListener('mouseenter', () => {
+    row.style.background = 'var(--color-background-secondary)';
+    document.getElementById('centerPct').textContent = l.pct + '%';
+    document.getElementById('centerName').textContent = l.name;
+    chart.setDatasetVisibility(0, true);
+    chart.data.datasets[0].hoverBackgroundColor = langs.map((_, j) => j===i ? l.color : l.color+'55');
+    chart.update('none');
+  });
+  row.addEventListener('mouseleave', () => {
+    row.style.background = '';
+    chart.data.datasets[0].hoverBackgroundColor = undefined;
+    chart.update('none');
+  });
+  legend.appendChild(row);
+
+  const tag = document.createElement('div');
+  tag.style.cssText = `display:flex;align-items:center;gap:5px;padding:4px 10px;border-radius:20px;font-size:11px;background:${l.color}22;color:${l.color};border:0.5px solid ${l.color}55;cursor:default;`;
+  tag.title = l.desc;
+  tag.innerHTML = `${l.icon} ${l.name} · ${l.pct}%`;
+  tags.appendChild(tag);
+});
+</script>
