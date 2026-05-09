@@ -94,7 +94,12 @@ Other     ██░░░░░░░░░░░░░░░░░░░░░�
 
 ## 📊 Language Usage
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcatord&layout=donut&theme=dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alcatord&theme=dark)
+
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alcatord&theme=dark)
+
 
 <div align="center">
 
