@@ -77,19 +77,6 @@ class Alcatord:
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
----
-
-## 📊 Language Usage
-
-> *Visual breakdown of my programming language usage across all projects*
-
-```
-Python    ████████████████████░░░░░░░░░░  40%   🐍 Scripting · AI · Security Tools
-C / C++   ██████████████░░░░░░░░░░░░░░░░  28%   ⚙️  Systems · Embedded · Arduino
-HTML/CSS  ████████░░░░░░░░░░░░░░░░░░░░░░  16%   🌐 Frontend · Web Design
-C#        █████░░░░░░░░░░░░░░░░░░░░░░░░░  10%   🎮 Unity · Game Dev
-Ruby      ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%   💎 Scripts · Automation
-Other     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%   🔧 Misc
 ```
 
 ## 📊 Language Usage
@@ -134,17 +121,6 @@ Other     ██░░░░░░░░░░░░░░░░░░░░░�
 | Vulnerability Research | Python Backends | Hardware Hacking |
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Language |
-|---|---|---|
-| [🕸️ NetScout](https://github.com/Alcatord/NetScout) | Network scanner — discovers hosts, ports & services | Python |
-| [🕷️ WebScraper](https://github.com/Alcatord/WebScraper) | Pure Python web scraper — links, emails, tables & forms | Python |
-| [🌐 Tech-Jacket Portfolio](https://alcatord.github.io/Tech-Jacket-Portfolio-4.0/) | Personal website | HTML |
-| [🏠 Personal Landing Page](https://github.com/Alcatord/Personal-Landing-Page) | Alca's personal landing page | HTML |
 
 ---
 
