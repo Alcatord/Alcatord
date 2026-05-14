@@ -17,7 +17,7 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25px" align="center"/> Based in <strong>Algeria 🇩🇿</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25px" align="center"/> Based in <strong> No Where</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px" align="center"/> GitHub: <a href="https://github.com/Alcatord"><strong>github.com/Alcatord</strong></a>
@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25px" align="center"/> Always experimenting with <strong>Arduino & Raspberry Pi</strong>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="25px" align="center"/> Motto: <em>"ZACK IS THAT INVINCIBLE?" — Tech-Jacket</em>
+    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Black%20Bird.png" width="25px" align="center"/> Motto: <em>"ZACK IS THAT INVINCIBLE?" — Tech-Jacket</em>
   </li>
 </ul>
 
