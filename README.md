@@ -145,7 +145,7 @@
 
 <div align="center">
 
-> *"ZACK IS THAT INVINCIBLE?"*  
+> *"My plan was not to hurt you"*  
 > — **Tech-Jacket**
 
 </div>
