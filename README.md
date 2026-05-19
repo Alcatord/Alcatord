@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25px" align="center"/> Always experimenting with <strong>Arduino & Raspberry Pi</strong>
   </li>
   <li>
-    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Black%20Bird.png" width="25px" align="center"/> Motto: <em>"7min is all what can i spare to play with you" — Tech-Jacket</em>
+    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Black%20Bird.png" width="25px" align="center"/> Motto: <em>"7min is all what can i spare to play with you" — Albert Wisker</em>
   </li>
 </ul>
 
