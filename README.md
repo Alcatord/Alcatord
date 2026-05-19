@@ -156,6 +156,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffcc,100:0d0d0d&height=120&section=footer" width="100%"/>
 
-*Made with 🖤 by [Alcatord](https://github.com/Alcatord) — The Web Detective*
+*Made by [Alcatord](https://github.com/Alcatord) — The Web Detective*
 
 </div>
