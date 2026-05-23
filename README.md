@@ -146,7 +146,7 @@
 <div align="center">
 
 > *"My plan was not to hurt you"*  
-> — **Tech-Jacket**
+> — **Robot**
 
 </div>
 
