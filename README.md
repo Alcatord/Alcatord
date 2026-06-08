@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Alca-Tord&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%7C%20Frontend%20%7C%20Embedded%20%7C%20Web%20Detective&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ffcc,100:000000&height=220&section=header&text=Alca-Tord&fontSize=75&fontColor=00ffcc&fontAlignY=40&desc=Cybersecurity%20%7C%20Frontend%20%7C%20Embedded&descAlignY=60&descSize=17" width="100%"/>
 
 </div>
 
