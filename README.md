@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:000000&height=220&section=header&text=ALCA-TORD&fontSize=65&fontColor=ff1a1a&fontAlignY=40&desc=//%20SYSTEM%20OVERRIDE%20ACTIVE%20//%20ACCESS%20GRANTED%20//&descSize=15&descColor=ffffff&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2b0000,100:000000&height=200&section=header&text=>%20root@system:%7E%23%20ALCA-TORD&fontSize=45&fontColor=ff0033&fontAlignY=40&desc=//%20decrypting%20identity...%20done%20//&descSize=14&descColor=ffffff" width="100%"/>
 
 </div>
 
