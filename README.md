@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://your-image-link/pixel-hacker-mrrobot-style.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:050b1a,100:000000&height=220&section=header&text=fsociety%20mode&fontSize=55&fontColor=00ff88&fontAlignY=40&desc=//%20anonymous%20system%20online%20//%20decrypting...%20access%20granted%20//&descSize=14&descAlignY=65" width="100%"/>
 
 </div>
 
