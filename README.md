@@ -158,3 +158,10 @@
 *Made by [Alcatord](https://github.com/Alcatord) — The Web Detective*
 
 </div>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alcatord&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=000000" width="49%"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Alcatord&theme=dark&hide_border=true&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&background=000000" width="49%"/>
+
+</div>
