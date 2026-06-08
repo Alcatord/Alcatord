@@ -119,9 +119,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alcatord&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00ffcc&title_color=00ffcc)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alcatord&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=ff1a1a&icon_color=ff1a1a)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Alcatord&theme=dark&hide_border=true&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Alcatord&theme=dark&hide_border=true&ring=ff1a1a&fire=ff1a1a&currStreakLabel=ff1a1a)
 
 </div>
 
