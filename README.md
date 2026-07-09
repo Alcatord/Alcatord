@@ -26,7 +26,7 @@ python, c, c++, javascript
 web security | ethical hacking | tool building
 
 > status
-online — building Workspace Pro
+online — building Projects
 ```
 
 </td>
