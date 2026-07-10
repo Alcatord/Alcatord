@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%"/>
+```
+ █████╗ ██╗      ██████╗ █████╗ ████████╗ ██████╗ ██████╗ ██████╗ 
+██╔══██╗██║     ██╔════╝██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗██╔══██╗
+███████║██║     ██║     ███████║   ██║   ██║   ██║██████╔╝██║  ██║
+██╔══██║██║     ██║     ██╔══██║   ██║   ██║   ██║██╔══██╗██║  ██║
+██║  ██║███████╗╚██████╗██║  ██║   ██║   ╚██████╔╝██║  ██║██████╔╝
+╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝ 
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%7C+Ethical+Hacker;Python+%2F+C+%2F+C%2B%2B+Developer;Building+Workspace+Pro+%E2%80%94+PySide6+Desktop+App;Access+Granted..." alt="Typing SVG"/>
 
@@ -8,35 +15,17 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
 ```bash
-> whoami
-alca — cybersecurity student & developer
+┌──(root💀system)-[~]
+└─$ whoami
 
-> location
-undisclosed // encrypted
-
-> stack
-python, c, c++, javascript
-
-> focus
-web security | ethical hacking | tool building
-
-> status
-online — building Workspace Pro
+alca
+├── role      : cybersecurity student & developer
+├── location  : undisclosed // encrypted
+├── stack     : python, c, c++, javascript
+├── focus     : web security | ethical hacking | tool building
+└── status    : ONLINE — building Workspace Pro
 ```
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -57,16 +46,22 @@ online — building Workspace Pro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,html,css,ruby&theme=dark" /><br/><br/>
+![Python](https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ffcc)
+![C](https://img.shields.io/badge/-C-0d0d0d?style=for-the-badge&logo=c&logoColor=ff0033)
+![C++](https://img.shields.io/badge/-C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff0033)
+![C#](https://img.shields.io/badge/-C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=00ffcc)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff0033)
+![CSS3](https://img.shields.io/badge/-CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=00ffcc)
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0d0d0d?style=for-the-badge&logo=kali-linux&logoColor=ff0033)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=00ffcc)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0d0d0d?style=for-the-badge&logo=burpsuite&logoColor=ff0033)
+![Nmap](https://img.shields.io/badge/-Nmap-0d0d0d?style=for-the-badge&logo=nmap&logoColor=00ffcc)
+![Arduino](https://img.shields.io/badge/-Arduino-0d0d0d?style=for-the-badge&logo=arduino&logoColor=00ffcc)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-0d0d0d?style=for-the-badge&logo=raspberrypi&logoColor=ff0033)
+![Unity](https://img.shields.io/badge/-Unity-0d0d0d?style=for-the-badge&logo=unity&logoColor=ffffff)
+![Godot](https://img.shields.io/badge/-Godot-0d0d0d?style=for-the-badge&logo=godotengine&logoColor=478cbf)
 
 </div>
 
@@ -96,14 +91,19 @@ online — building Workspace Pro
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Alcatord&theme=dark&hide_border=true&background=0D0D0D&ring=ff0033&fire=ff0033&currStreakLabel=00ffcc" width="60%"/>
 
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
 <br/>
 
 <div align="center">
 
-> *"My plan was not to hurt you."* — **Mr. Robot**
+```
+> "My plan was not to hurt you." — Mr. Robot
 
-<img src="./assets/footer.svg" width="100%"/>
+> connection_terminated
+> made by Alcatord — the web detective
+```
 
 </div>
