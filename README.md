@@ -36,7 +36,7 @@ alca
 [![Instagram](https://img.shields.io/badge/Instagram-Alca__Tord-000000?style=for-the-badge&logo=instagram&logoColor=ff0033&labelColor=0d0d0d)](https://instagram.com/Alca_Tord)
 [![TikTok](https://img.shields.io/badge/TikTok-mr__alcatord__x-000000?style=for-the-badge&logo=tiktok&logoColor=00ffcc&labelColor=0d0d0d)](https://tiktok.com/@mr_alcatord_x)
 [![X](https://img.shields.io/badge/X-Alcatord-000000?style=for-the-badge&logo=x&logoColor=ff0033&labelColor=0d0d0d)](https://x.com/Alcatord)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=ff0033&labelColor=0d0d0d)](https://youtube.com/@UC8XpPIebF_BzAJZf6MFhvEg)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=ff0033&labelColor=0d0d0d)](https://www.youtube.com/@Mr.Alcatord)
 
 </div>
 
