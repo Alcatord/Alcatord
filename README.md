@@ -16,7 +16,7 @@
 <br/>
 
 ```bash
-┌──(root💀system)-[~]
+┌──(root/system)-[~]
 └─$ whoami
 
 alca
@@ -29,7 +29,7 @@ alca
 
 <br/>
 
-## 🔗 connect
+##  connections
 
 <div align="center">
 
@@ -42,7 +42,7 @@ alca
 
 <br/>
 
-## 🛠 tech stack
+##  tech stack
 
 <div align="center">
 
@@ -67,11 +67,11 @@ alca
 
 <br/>
 
-## 🎯 focus areas
+##  focus areas
 
 <div align="center">
 
-| 🛡️ security | ⚙️ dev tools | 🎮 game dev | ⚡ embedded |
+|  security |  dev tools |  game dev |  embedded |
 |:---:|:---:|:---:|:---:|
 | Network scanning | Desktop apps (PySide6) | Unity & Godot | Arduino |
 | OSINT tooling | Python automation | 3D with Blender | Raspberry Pi |
@@ -82,7 +82,7 @@ alca
 
 <br/>
 
-## 📊 stats
+##  stats
 
 <div align="center">
 
