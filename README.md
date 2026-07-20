@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- █████╗ ██╗      ██████╗ █████╗ ████████╗ ██████╗ ██████╗ ██████╗ 
-██╔══██╗██║     ██╔════╝██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗██╔══██╗
-███████║██║     ██║     ███████║   ██║   ██║   ██║██████╔╝██║  ██║
-██╔══██║██║     ██║     ██╔══██║   ██║   ██║   ██║██╔══██╗██║  ██║
-██║  ██║███████╗╚██████╗██║  ██║   ██║   ╚██████╔╝██║  ██║██████╔╝
-╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝ 
-```
+<img src="assets/banner.svg" alt="Alcatord banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%7C+Network+Security;Python+%2F+C+%2F+C%2B%2B+Developer;OSINT+%7C+Hardware+Hacking+%7C+Full-Stack;Building+Workspace+Pro+%E2%80%94+PySide6+Desktop+App;Access+Granted..." alt="Typing SVG"/>
 
@@ -100,9 +93,8 @@ alca
 
 ```
 > "My plan was not to hurt you." —
-
-> 
-> made by Alcatord 
 ```
+
+<img src="assets/footer.svg" alt="footer" width="100%"/>
 
 </div>
