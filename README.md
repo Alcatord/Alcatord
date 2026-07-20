@@ -8,7 +8,7 @@
 ██║  ██║███████╗╚██████╗██║  ██║   ██║   ╚██████╔╝██║  ██║██████╔╝
 ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝ 
 ```
-
+ 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%7C+Ethical+Hacker;Python+%2F+C+%2F+C%2B%2B+Developer;Building+Workspace+Pro+%E2%80%94+PySide6+Desktop+App;Access+Granted..." alt="Typing SVG"/>
 
