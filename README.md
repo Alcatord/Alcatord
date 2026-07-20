@@ -8,9 +8,8 @@
 ██║  ██║███████╗╚██████╗██║  ██║   ██║   ╚██████╔╝██║  ██║██████╔╝
 ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝ 
 ```
- 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%7C+Ethical+Hacker;Python+%2F+C+%2F+C%2B%2B+Developer;Building+Workspace+Pro+%E2%80%94+PySide6+Desktop+App;Access+Granted..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%7C+Network+Security;Python+%2F+C+%2F+C%2B%2B+Developer;OSINT+%7C+Hardware+Hacking+%7C+Full-Stack;Building+Workspace+Pro+%E2%80%94+PySide6+Desktop+App;Access+Granted..." alt="Typing SVG"/>
 
 </div>
 
@@ -21,16 +20,16 @@
 └─$ whoami
 
 alca
-├── role      : cybersecurity student & developer
+├── role      : cybersecurity student & software developer
 ├── location  : undisclosed // encrypted
-├── stack     : python, c, c++, javascript
-├── focus     : web security | ethical hacking | tool building
+├── stack     : python, c, c++, javascript, full-stack web
+├── focus     : network security | osint | hardware hacking | tool building
 └── status    : ONLINE — building Workspace Pro
 ```
 
 <br/>
 
-## 🔗 connect
+## connect
 
 <div align="center">
 
@@ -43,15 +42,16 @@ alca
 
 <br/>
 
-## 🛠 tech stack
+## tech stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ffcc)
 ![C](https://img.shields.io/badge/-C-0d0d0d?style=for-the-badge&logo=c&logoColor=ff0033)
 ![C++](https://img.shields.io/badge/-C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff0033)
-![C#](https://img.shields.io/badge/-C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=00ffcc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Node.js](https://img.shields.io/badge/-Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=00ffcc)
+![React](https://img.shields.io/badge/-React-0d0d0d?style=for-the-badge&logo=react&logoColor=00ffcc)
 ![HTML5](https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff0033)
 ![CSS3](https://img.shields.io/badge/-CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=00ffcc)
 
@@ -61,29 +61,27 @@ alca
 ![Nmap](https://img.shields.io/badge/-Nmap-0d0d0d?style=for-the-badge&logo=nmap&logoColor=00ffcc)
 ![Arduino](https://img.shields.io/badge/-Arduino-0d0d0d?style=for-the-badge&logo=arduino&logoColor=00ffcc)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-0d0d0d?style=for-the-badge&logo=raspberrypi&logoColor=ff0033)
-![Unity](https://img.shields.io/badge/-Unity-0d0d0d?style=for-the-badge&logo=unity&logoColor=ffffff)
-![Godot](https://img.shields.io/badge/-Godot-0d0d0d?style=for-the-badge&logo=godotengine&logoColor=478cbf)
 
 </div>
 
 <br/>
 
-## 🎯 focus areas
+## focus areas
 
 <div align="center">
 
-| 🛡️ security | ⚙️ dev tools | 🎮 game dev | ⚡ embedded |
+| security | networking &#124; osint | hardware hacking | dev tools |
 |:---:|:---:|:---:|:---:|
-| Network scanning | Desktop apps (PySide6) | Unity & Godot | Arduino |
-| OSINT tooling | Python automation | 3D with Blender | Raspberry Pi |
-| Hash cracking | REST APIs | Game jams | IoT prototyping |
-| Vulnerability research | Frontend design | Published on Itch.io | Hardware hacking |
+| Vulnerability research | Network scanning & mapping | Radio / RF hacking | Desktop apps (PySide6) |
+| Web app security | OSINT tooling & recon | SDR experimentation | Python automation |
+| Hash cracking | Traffic analysis (Wireshark) | Arduino prototyping | REST APIs |
+| Exploit analysis | Protocol inspection | Raspberry Pi projects | Full-stack web dev |
 
 </div>
 
 <br/>
 
-## 📊 stats
+## stats
 
 <div align="center">
 
