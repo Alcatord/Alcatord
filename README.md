@@ -78,12 +78,8 @@ alca
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alcatord&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=ff0033&icon_color=00ffcc&text_color=e0e0e0&include_all_commits=true&count_private=true&show_icons=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcatord&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=ff0033&layout=compact" width="30%"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Alcatord&theme=dark&hide_border=true&background=0D0D0D&ring=ff0033&fire=ff0033&currStreakLabel=00ffcc" width="60%"/>
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="assets/2000.gif" alt="mecha unit status" width="100%"/>
 
 </div>
 
