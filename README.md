@@ -52,6 +52,9 @@ alca
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=00ffcc)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0d0d0d?style=for-the-badge&logo=burpsuite&logoColor=ff0033)
 ![Nmap](https://img.shields.io/badge/-Nmap-0d0d0d?style=for-the-badge&logo=nmap&logoColor=00ffcc)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0d0d0d?style=for-the-badge&logo=metasploit&logoColor=ff0033)
+![SQLMap](https://img.shields.io/badge/-SQLMap-0d0d0d?style=for-the-badge&logoColor=00ffcc)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0033)
 ![Arduino](https://img.shields.io/badge/-Arduino-0d0d0d?style=for-the-badge&logo=arduino&logoColor=00ffcc)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-0d0d0d?style=for-the-badge&logo=raspberrypi&logoColor=ff0033)
 
@@ -66,18 +69,17 @@ alca
 | security | networking &#124; osint | hardware hacking | dev tools |
 |:---:|:---:|:---:|:---:|
 | Vulnerability research | Network scanning & mapping | Radio / RF hacking | Desktop apps (PySide6) |
-| Web app security | OSINT tooling & recon | SDR experimentation | Python automation |
-| Hash cracking | Traffic analysis (Wireshark) | Arduino prototyping | REST APIs |
-| Exploit analysis | Protocol inspection | Raspberry Pi projects | Full-stack web dev |
+| Web app security (SQLMap) | OSINT tooling & recon | SDR experimentation | Python automation |
+| Exploitation (Metasploit) | Traffic analysis (Wireshark) | Arduino prototyping | Web scraping (BeautifulSoup) |
+| Hash cracking | Protocol inspection | Raspberry Pi projects | Full-stack web dev |
 
 </div>
 
 <br/>
 
-## stats :
+## system
 
 <div align="center">
-
 
 <img src="assets/2000.gif" alt="mecha unit status" width="100%"/>
 
