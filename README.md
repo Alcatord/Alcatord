@@ -12,12 +12,13 @@
 ┌──(root/system)-[~]
 └─$ whoami
 
-alca
+alca 
+├── info      : a 17-yo boy who loves computers and machines
 ├── role      : cybersecurity student & software developer
 ├── location  : undisclosed // encrypted
 ├── stack     : python, c, c++, javascript, full-stack web
 ├── focus     : network security | osint | hardware hacking | tool building
-└── status    : ONLINE — building Workspace Pro
+└── status    : good... i guess...
 ```
 
 <br/>
@@ -77,7 +78,7 @@ alca
 
 <br/>
 
-## system
+## stats 
 
 <div align="center">
 
